@@ -1,7 +1,7 @@
 {
   "name": "qr",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/HMser/hm",
+  "repository": "https://github.com/itishm/qr",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
